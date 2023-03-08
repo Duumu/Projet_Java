@@ -1,2 +1,6 @@
-package TP3;public class King2 {
+package TP3;
+
+public class King {
+    private Position position;
+    private int color;
 }

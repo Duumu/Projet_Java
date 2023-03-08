@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class TP1 {
     public static void main(String[] args) {
         test3();
         test2();
