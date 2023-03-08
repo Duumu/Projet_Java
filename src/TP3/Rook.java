@@ -1,2 +1,7 @@
-package TP3;public class Rook {
+package TP3;
+
+public class Rook {
+    private Position position;
+    private int color;
+
 }
